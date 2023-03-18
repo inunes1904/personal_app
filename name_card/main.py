@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 my_email = "inunes1904@yahoo.com"
 password = "%;V9f(a9RR"+"'"+"f8)b"
-app_password = "hzhffhhovbqbbpfr"
+app_password = "hzhffhhovbqbbpfr"a
 
 
 @app.route('/', methods=["GET", "POST"])
